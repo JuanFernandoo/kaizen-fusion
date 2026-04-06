@@ -1,0 +1,1 @@
+export { default as TableAssignedRing } from './table-assigned-ring'

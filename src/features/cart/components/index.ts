@@ -1,0 +1,1 @@
+export { default as CartItemCard } from './cart-item-card'
